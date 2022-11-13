@@ -1,0 +1,8 @@
+D:\BilgeAdam\.NET eğitimi\C#Dersleri\Ders9_TryCatch\bin\Debug\Ders9_TryCatch.exe.config
+D:\BilgeAdam\.NET eğitimi\C#Dersleri\Ders9_TryCatch\bin\Debug\Ders9_TryCatch.exe
+D:\BilgeAdam\.NET eğitimi\C#Dersleri\Ders9_TryCatch\bin\Debug\Ders9_TryCatch.pdb
+D:\BilgeAdam\.NET eğitimi\C#Dersleri\Ders9_TryCatch\obj\Debug\Ders9_TryCatch.csproj.AssemblyReference.cache
+D:\BilgeAdam\.NET eğitimi\C#Dersleri\Ders9_TryCatch\obj\Debug\Ders9_TryCatch.csproj.SuggestedBindingRedirects.cache
+D:\BilgeAdam\.NET eğitimi\C#Dersleri\Ders9_TryCatch\obj\Debug\Ders9_TryCatch.csproj.CoreCompileInputs.cache
+D:\BilgeAdam\.NET eğitimi\C#Dersleri\Ders9_TryCatch\obj\Debug\Ders9_TryCatch.exe
+D:\BilgeAdam\.NET eğitimi\C#Dersleri\Ders9_TryCatch\obj\Debug\Ders9_TryCatch.pdb
