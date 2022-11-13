@@ -1,0 +1,8 @@
+D:\BilgeAdam\.NET eğitimi\C#Dersleri\Ders12_Donguler\bin\Debug\Ders12_Donguler.exe.config
+D:\BilgeAdam\.NET eğitimi\C#Dersleri\Ders12_Donguler\bin\Debug\Ders12_Donguler.exe
+D:\BilgeAdam\.NET eğitimi\C#Dersleri\Ders12_Donguler\bin\Debug\Ders12_Donguler.pdb
+D:\BilgeAdam\.NET eğitimi\C#Dersleri\Ders12_Donguler\obj\Debug\Ders12_Donguler.csproj.AssemblyReference.cache
+D:\BilgeAdam\.NET eğitimi\C#Dersleri\Ders12_Donguler\obj\Debug\Ders12_Donguler.csproj.SuggestedBindingRedirects.cache
+D:\BilgeAdam\.NET eğitimi\C#Dersleri\Ders12_Donguler\obj\Debug\Ders12_Donguler.csproj.CoreCompileInputs.cache
+D:\BilgeAdam\.NET eğitimi\C#Dersleri\Ders12_Donguler\obj\Debug\Ders12_Donguler.exe
+D:\BilgeAdam\.NET eğitimi\C#Dersleri\Ders12_Donguler\obj\Debug\Ders12_Donguler.pdb
