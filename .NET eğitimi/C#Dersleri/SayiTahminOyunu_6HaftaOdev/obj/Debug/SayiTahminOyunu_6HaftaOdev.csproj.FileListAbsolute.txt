@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\SayiTahminOyunu_6HaftaOdev\bin\Debug\SayiTahminOyunu_6HaftaOdev.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\SayiTahminOyunu_6HaftaOdev\bin\Debug\SayiTahminOyunu_6HaftaOdev.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\SayiTahminOyunu_6HaftaOdev\bin\Debug\SayiTahminOyunu_6HaftaOdev.pdb
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\SayiTahminOyunu_6HaftaOdev\obj\Debug\SayiTahminOyunu_6HaftaOdev.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\SayiTahminOyunu_6HaftaOdev\obj\Debug\SayiTahminOyunu_6HaftaOdev.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\SayiTahminOyunu_6HaftaOdev\obj\Debug\SayiTahminOyunu_6HaftaOdev.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\SayiTahminOyunu_6HaftaOdev\obj\Debug\SayiTahminOyunu_6HaftaOdev.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\SayiTahminOyunu_6HaftaOdev\obj\Debug\SayiTahminOyunu_6HaftaOdev.pdb
