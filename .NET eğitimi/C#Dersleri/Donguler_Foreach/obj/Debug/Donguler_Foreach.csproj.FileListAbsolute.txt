@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Donguler_Foreach\bin\Debug\Donguler_Foreach.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Donguler_Foreach\bin\Debug\Donguler_Foreach.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Donguler_Foreach\bin\Debug\Donguler_Foreach.pdb
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Donguler_Foreach\obj\Debug\Donguler_Foreach.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Donguler_Foreach\obj\Debug\Donguler_Foreach.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Donguler_Foreach\obj\Debug\Donguler_Foreach.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Donguler_Foreach\obj\Debug\Donguler_Foreach.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Donguler_Foreach\obj\Debug\Donguler_Foreach.pdb

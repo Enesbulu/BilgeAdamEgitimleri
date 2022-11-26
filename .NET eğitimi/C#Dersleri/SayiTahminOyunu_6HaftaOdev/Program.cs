@@ -29,6 +29,7 @@ namespace SayiTahminOyunu_6HaftaOdev
             int tuttugumSayi = 0;
             short puan = 250;
             do
+
             {
                 tuttugumSayi = (rndSayi.Next(1, 100));
                 puan-=50;
