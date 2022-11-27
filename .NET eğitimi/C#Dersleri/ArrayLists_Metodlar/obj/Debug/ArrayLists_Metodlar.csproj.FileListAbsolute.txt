@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\ArrayLists_Metodlar\obj\Debug\ArrayLists_Metodlar.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\ArrayLists_Metodlar\obj\Debug\ArrayLists_Metodlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\ArrayLists_Metodlar\obj\Debug\ArrayLists_Metodlar.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\ArrayLists_Metodlar\bin\Debug\ArrayLists_Metodlar.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\ArrayLists_Metodlar\bin\Debug\ArrayLists_Metodlar.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\ArrayLists_Metodlar\bin\Debug\ArrayLists_Metodlar.pdb
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\ArrayLists_Metodlar\obj\Debug\ArrayLists_Metodlar.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\ArrayLists_Metodlar\obj\Debug\ArrayLists_Metodlar.pdb
