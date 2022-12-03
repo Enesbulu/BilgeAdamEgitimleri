@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Odev7_RehberUygulamasi\bin\Debug\Odev7_RehberUygulamasi.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Odev7_RehberUygulamasi\bin\Debug\Odev7_RehberUygulamasi.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Odev7_RehberUygulamasi\bin\Debug\Odev7_RehberUygulamasi.pdb
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Odev7_RehberUygulamasi\obj\Debug\Odev7_RehberUygulamasi.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Odev7_RehberUygulamasi\obj\Debug\Odev7_RehberUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Odev7_RehberUygulamasi\obj\Debug\Odev7_RehberUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Odev7_RehberUygulamasi\obj\Debug\Odev7_RehberUygulamasi.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Odev7_RehberUygulamasi\obj\Debug\Odev7_RehberUygulamasi.pdb
