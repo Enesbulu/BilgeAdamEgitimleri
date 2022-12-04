@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_ArrayList\bin\Debug\net6.0\Ders17_ArrayList.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_ArrayList\bin\Debug\net6.0\Ders17_ArrayList.deps.json
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_ArrayList\bin\Debug\net6.0\Ders17_ArrayList.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_ArrayList\bin\Debug\net6.0\Ders17_ArrayList.dll
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_ArrayList\bin\Debug\net6.0\Ders17_ArrayList.pdb
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_ArrayList\obj\Debug\net6.0\Ders17_ArrayList.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_ArrayList\obj\Debug\net6.0\Ders17_ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_ArrayList\obj\Debug\net6.0\Ders17_ArrayList.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_ArrayList\obj\Debug\net6.0\Ders17_ArrayList.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_ArrayList\obj\Debug\net6.0\Ders17_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_ArrayList\obj\Debug\net6.0\Ders17_ArrayList.dll
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_ArrayList\obj\Debug\net6.0\refint\Ders17_ArrayList.dll
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_ArrayList\obj\Debug\net6.0\Ders17_ArrayList.pdb
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_ArrayList\obj\Debug\net6.0\Ders17_ArrayList.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_ArrayList\obj\Debug\net6.0\ref\Ders17_ArrayList.dll

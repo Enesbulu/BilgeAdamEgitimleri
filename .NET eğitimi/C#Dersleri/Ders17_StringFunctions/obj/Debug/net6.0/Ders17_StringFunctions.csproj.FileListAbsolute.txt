@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_StringFunctions\bin\Debug\net6.0\Ders17_StringFunctions.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_StringFunctions\bin\Debug\net6.0\Ders17_StringFunctions.deps.json
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_StringFunctions\bin\Debug\net6.0\Ders17_StringFunctions.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_StringFunctions\bin\Debug\net6.0\Ders17_StringFunctions.dll
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_StringFunctions\bin\Debug\net6.0\Ders17_StringFunctions.pdb
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_StringFunctions\obj\Debug\net6.0\Ders17_StringFunctions.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_StringFunctions\obj\Debug\net6.0\Ders17_StringFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_StringFunctions\obj\Debug\net6.0\Ders17_StringFunctions.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_StringFunctions\obj\Debug\net6.0\Ders17_StringFunctions.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_StringFunctions\obj\Debug\net6.0\Ders17_StringFunctions.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_StringFunctions\obj\Debug\net6.0\Ders17_StringFunctions.dll
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_StringFunctions\obj\Debug\net6.0\refint\Ders17_StringFunctions.dll
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_StringFunctions\obj\Debug\net6.0\Ders17_StringFunctions.pdb
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_StringFunctions\obj\Debug\net6.0\Ders17_StringFunctions.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders17_StringFunctions\obj\Debug\net6.0\ref\Ders17_StringFunctions.dll
