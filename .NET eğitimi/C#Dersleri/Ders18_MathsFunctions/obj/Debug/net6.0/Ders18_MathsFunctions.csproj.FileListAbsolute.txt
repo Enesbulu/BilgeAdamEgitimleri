@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_MathsFunctions\bin\Debug\net6.0\Ders18_MathsFunctions.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_MathsFunctions\bin\Debug\net6.0\Ders18_MathsFunctions.deps.json
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_MathsFunctions\bin\Debug\net6.0\Ders18_MathsFunctions.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_MathsFunctions\bin\Debug\net6.0\Ders18_MathsFunctions.dll
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_MathsFunctions\bin\Debug\net6.0\Ders18_MathsFunctions.pdb
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_MathsFunctions\obj\Debug\net6.0\Ders18_MathsFunctions.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_MathsFunctions\obj\Debug\net6.0\Ders18_MathsFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_MathsFunctions\obj\Debug\net6.0\Ders18_MathsFunctions.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_MathsFunctions\obj\Debug\net6.0\Ders18_MathsFunctions.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_MathsFunctions\obj\Debug\net6.0\Ders18_MathsFunctions.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_MathsFunctions\obj\Debug\net6.0\Ders18_MathsFunctions.dll
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_MathsFunctions\obj\Debug\net6.0\refint\Ders18_MathsFunctions.dll
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_MathsFunctions\obj\Debug\net6.0\Ders18_MathsFunctions.pdb
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_MathsFunctions\obj\Debug\net6.0\Ders18_MathsFunctions.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_MathsFunctions\obj\Debug\net6.0\ref\Ders18_MathsFunctions.dll

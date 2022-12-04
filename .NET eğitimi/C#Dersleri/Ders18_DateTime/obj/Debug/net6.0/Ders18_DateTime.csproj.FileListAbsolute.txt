@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_DateTime\bin\Debug\net6.0\Ders18_DateTime.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_DateTime\bin\Debug\net6.0\Ders18_DateTime.deps.json
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_DateTime\bin\Debug\net6.0\Ders18_DateTime.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_DateTime\bin\Debug\net6.0\Ders18_DateTime.dll
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_DateTime\bin\Debug\net6.0\Ders18_DateTime.pdb
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_DateTime\obj\Debug\net6.0\Ders18_DateTime.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_DateTime\obj\Debug\net6.0\Ders18_DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_DateTime\obj\Debug\net6.0\Ders18_DateTime.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_DateTime\obj\Debug\net6.0\Ders18_DateTime.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_DateTime\obj\Debug\net6.0\Ders18_DateTime.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_DateTime\obj\Debug\net6.0\Ders18_DateTime.dll
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_DateTime\obj\Debug\net6.0\refint\Ders18_DateTime.dll
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_DateTime\obj\Debug\net6.0\Ders18_DateTime.pdb
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_DateTime\obj\Debug\net6.0\Ders18_DateTime.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders18_DateTime\obj\Debug\net6.0\ref\Ders18_DateTime.dll
