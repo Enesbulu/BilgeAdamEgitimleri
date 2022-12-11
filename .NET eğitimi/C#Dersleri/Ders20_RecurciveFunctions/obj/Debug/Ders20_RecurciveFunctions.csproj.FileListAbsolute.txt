@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders20_RecurciveFunctions\bin\Debug\Ders20_RecurciveFunctions.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders20_RecurciveFunctions\bin\Debug\Ders20_RecurciveFunctions.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders20_RecurciveFunctions\bin\Debug\Ders20_RecurciveFunctions.pdb
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders20_RecurciveFunctions\obj\Debug\Ders20_RecurciveFunctions.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders20_RecurciveFunctions\obj\Debug\Ders20_RecurciveFunctions.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders20_RecurciveFunctions\obj\Debug\Ders20_RecurciveFunctions.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders20_RecurciveFunctions\obj\Debug\Ders20_RecurciveFunctions.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders20_RecurciveFunctions\obj\Debug\Ders20_RecurciveFunctions.pdb
