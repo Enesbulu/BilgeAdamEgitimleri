@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Odev9_CommandLine_Uygulamasi\bin\Debug\Odev9_CommandLine_Uygulamasi.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Odev9_CommandLine_Uygulamasi\bin\Debug\Odev9_CommandLine_Uygulamasi.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Odev9_CommandLine_Uygulamasi\bin\Debug\Odev9_CommandLine_Uygulamasi.pdb
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Odev9_CommandLine_Uygulamasi\obj\Debug\Odev9_CommandLine_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Odev9_CommandLine_Uygulamasi\obj\Debug\Odev9_CommandLine_Uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Odev9_CommandLine_Uygulamasi\obj\Debug\Odev9_CommandLine_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Odev9_CommandLine_Uygulamasi\obj\Debug\Odev9_CommandLine_Uygulamasi.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Odev9_CommandLine_Uygulamasi\obj\Debug\Odev9_CommandLine_Uygulamasi.pdb
