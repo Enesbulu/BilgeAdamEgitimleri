@@ -1,0 +1,11 @@
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders20_LibraryOrnek\bin\Debug\Ders20_LibraryOrnek.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders20_LibraryOrnek\bin\Debug\Ders20_LibraryOrnek.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders20_LibraryOrnek\bin\Debug\Ders20_LibraryOrnek.pdb
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders20_LibraryOrnek\bin\Debug\Ders20_Kutuphanem.dll
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders20_LibraryOrnek\bin\Debug\Ders20_Kutuphanem.pdb
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders20_LibraryOrnek\obj\Debug\Ders20_LibraryOrnek.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders20_LibraryOrnek\obj\Debug\Ders20_LibraryOrnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders20_LibraryOrnek\obj\Debug\Ders20_LibraryOrnek.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders20_LibraryOrnek\obj\Debug\Ders20_LibraryOrnek.csproj.CopyComplete
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders20_LibraryOrnek\obj\Debug\Ders20_LibraryOrnek.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders20_LibraryOrnek\obj\Debug\Ders20_LibraryOrnek.pdb

@@ -327,12 +327,11 @@ namespace Odev9_CommandLine_Uygulamasi
         public static void InfoFolderCommand(string dizin, string klasorAdi)
         {
             dizin = @"D:\";
-            string tamYol = dizin + klasorAdi;
-            Console.WriteLine(tamYol);
+            string tamYol = dizin + klasorAdi; 
             try
             {
                 if (Directory.Exists((dizin + klasorAdi)))
-                {
+                {   //Tam yol olarak dosya adını yazdıramıyorum. Sebebini çözemedim!
                     DirectoryInfo klasorBilgi = new DirectoryInfo(dizin + klasorAdi);
                     Console.WriteLine(tamYol + $":\r\nKlasör oluşturulma Tarihi: {klasorBilgi.CreationTime}" + $"\n\rTam Yol : {klasorBilgi.FullName}" + $"\n\rÜst dizin: {klasorBilgi.Parent}");
                 }

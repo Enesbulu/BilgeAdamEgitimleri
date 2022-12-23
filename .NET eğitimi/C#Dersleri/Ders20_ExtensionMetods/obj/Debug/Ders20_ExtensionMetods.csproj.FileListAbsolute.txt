@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders20_ExtensionMetods\bin\Debug\Ders20_ExtensionMetods.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders20_ExtensionMetods\bin\Debug\Ders20_ExtensionMetods.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders20_ExtensionMetods\bin\Debug\Ders20_ExtensionMetods.pdb
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders20_ExtensionMetods\obj\Debug\Ders20_ExtensionMetods.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders20_ExtensionMetods\obj\Debug\Ders20_ExtensionMetods.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders20_ExtensionMetods\obj\Debug\Ders20_ExtensionMetods.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders20_ExtensionMetods\obj\Debug\Ders20_ExtensionMetods.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders20_ExtensionMetods\obj\Debug\Ders20_ExtensionMetods.pdb

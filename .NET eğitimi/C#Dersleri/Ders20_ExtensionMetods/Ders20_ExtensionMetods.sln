@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders20_ExtensionMetods", "Ders20_ExtensionMetods.csproj", "{DACA908F-B006-4884-9EF0-1E4755C7A3D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DACA908F-B006-4884-9EF0-1E4755C7A3D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DACA908F-B006-4884-9EF0-1E4755C7A3D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DACA908F-B006-4884-9EF0-1E4755C7A3D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DACA908F-B006-4884-9EF0-1E4755C7A3D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6E82D79-037A-4694-8EDC-9700ED3EB24B}
+	EndGlobalSection
+EndGlobal
