@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders30_Interface\bin\Debug\Ders30_Interface.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders30_Interface\bin\Debug\Ders30_Interface.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders30_Interface\bin\Debug\Ders30_Interface.pdb
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders30_Interface\obj\Debug\Ders30_Interface.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders30_Interface\obj\Debug\Ders30_Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders30_Interface\obj\Debug\Ders30_Interface.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders30_Interface\obj\Debug\Ders30_Interface.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders30_Interface\obj\Debug\Ders30_Interface.pdb

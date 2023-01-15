@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders24_Class\bin\Debug\Ders24_Class.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders24_Class\bin\Debug\Ders24_Class.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders24_Class\bin\Debug\Ders24_Class.pdb
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders24_Class\obj\Debug\Ders24_Class.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders24_Class\obj\Debug\Ders24_Class.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders24_Class\obj\Debug\Ders24_Class.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders24_Class\obj\Debug\Ders24_Class.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders24_Class\obj\Debug\Ders24_Class.pdb

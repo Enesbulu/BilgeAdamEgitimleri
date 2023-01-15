@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders29_AbstractClass\obj\Debug\Ders29_AbstractClass.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders29_AbstractClass\obj\Debug\Ders29_AbstractClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders29_AbstractClass\obj\Debug\Ders29_AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders29_AbstractClass\bin\Debug\Ders29_AbstractClass.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders29_AbstractClass\bin\Debug\Ders29_AbstractClass.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders29_AbstractClass\bin\Debug\Ders29_AbstractClass.pdb
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders29_AbstractClass\obj\Debug\Ders29_AbstractClass.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders29_AbstractClass\obj\Debug\Ders29_AbstractClass.pdb
