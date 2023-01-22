@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders32_CodeFirst_Linq\bin\Debug\Ders32_CodeFirst_Linq.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders32_CodeFirst_Linq\bin\Debug\Ders32_CodeFirst_Linq.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders32_CodeFirst_Linq\bin\Debug\Ders32_CodeFirst_Linq.pdb
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders32_CodeFirst_Linq\bin\Debug\EntityFramework.dll
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders32_CodeFirst_Linq\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders32_CodeFirst_Linq\bin\Debug\EntityFramework.xml
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders32_CodeFirst_Linq\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders32_CodeFirst_Linq\obj\Debug\Ders32_CodeFirst_Linq.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders32_CodeFirst_Linq\obj\Debug\Ders32_CodeFirst_Linq.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders32_CodeFirst_Linq\obj\Debug\Ders32_CodeFirst_Linq.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders32_CodeFirst_Linq\obj\Debug\Ders32_CodeFirst_Linq.csproj.CopyComplete
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders32_CodeFirst_Linq\obj\Debug\Ders32_CodeFirst_Linq.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders32_CodeFirst_Linq\obj\Debug\Ders32_CodeFirst_Linq.pdb
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders32_CodeFirst_Linq\obj\Debug\Ders32_CodeFirst_Linq.Migrations.ilkolusum.resources
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders32_CodeFirst_Linq\obj\Debug\Ders32_CodeFirst_Linq.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders32_CodeFirst_Linq\obj\Debug\Ders32_CodeFirst_Linq.Migrations.EmployeeDbContext.resources

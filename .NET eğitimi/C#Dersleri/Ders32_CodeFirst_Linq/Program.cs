@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ders32_CodeFirst_Linq
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+
+        }
+    }
+}
