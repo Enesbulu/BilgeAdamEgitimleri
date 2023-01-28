@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders33_DataAccess\Ders33_DataAccess\bin\Debug\Ders33_DataAccess.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders33_DataAccess\Ders33_DataAccess\bin\Debug\Ders33_DataAccess.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders33_DataAccess\Ders33_DataAccess\bin\Debug\Ders33_DataAccess.pdb
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders33_DataAccess\Ders33_DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders33_DataAccess\Ders33_DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders33_DataAccess\Ders33_DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders33_DataAccess\Ders33_DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders33_DataAccess\Ders33_DataAccess\obj\Debug\Ders33_DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders33_DataAccess\Ders33_DataAccess\obj\Debug\Ders33_DataAccess.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders33_DataAccess\Ders33_DataAccess\obj\Debug\Ders33_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders33_DataAccess\Ders33_DataAccess\obj\Debug\Ders33_DataAccess.csproj.CopyComplete
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders33_DataAccess\Ders33_DataAccess\obj\Debug\Ders33_DataAccess.exe
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders33_DataAccess\Ders33_DataAccess\obj\Debug\Ders33_DataAccess.pdb
+C:\Users\User\OneDrive\Documents\GitHub\desktop-tutorial\.NET eğitimi\C#Dersleri\Ders33_DataAccess\Ders33_DataAccess\bin\Debug\DataAnnotationsExtensions.dll
