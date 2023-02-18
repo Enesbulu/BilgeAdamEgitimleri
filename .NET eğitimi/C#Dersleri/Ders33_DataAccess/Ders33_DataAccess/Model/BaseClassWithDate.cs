@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Ders33_DataAccess.Model
 {
-    public class BaseClassWhithDate:BaseClassId
+    public class BaseClassWithDate:BaseClassId
     {
         [Required]  //Boş bırakılamaz bir kolon
         public DateTime CreationDate { get; set; }  = DateTime.Now;

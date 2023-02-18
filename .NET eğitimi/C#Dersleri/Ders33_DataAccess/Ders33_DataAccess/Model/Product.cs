@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Ders33_DataAccess.Model
 {
-    public class Product : BaseClassWhithDate
+    public class Product : BaseClassWithDate
     {
         [StringLength(150)] //Max karakter uzunluğu
         public string Name { get; set; }

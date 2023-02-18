@@ -2,7 +2,7 @@
 
 namespace Ders33_DataAccess.Model
 {
-    public class Category : BaseClassWhithDate
+    public class Category : BaseClassWithDate
     {
         [StringLength(100)] //Name metodu için kısıtlama
         public string Name { get; set; }

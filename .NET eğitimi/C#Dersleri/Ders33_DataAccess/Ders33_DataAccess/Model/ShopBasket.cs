@@ -2,7 +2,7 @@
 
 namespace Ders33_DataAccess.Model
 {
-    public class ShopBasket : BaseClassWhithDate
+    public class ShopBasket : BaseClassWithDate
     {
         public int ProductId { get; set; }
         public int Amount { get; set; }

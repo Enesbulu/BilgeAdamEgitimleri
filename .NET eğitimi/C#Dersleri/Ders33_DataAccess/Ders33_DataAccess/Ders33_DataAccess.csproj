@@ -58,7 +58,7 @@
   <ItemGroup>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Model\BaseClassId.cs" />
-    <Compile Include="Model\BaseClassWhithDate.cs" />
+    <Compile Include="Model\BaseClassWithDate.cs" />
     <Compile Include="Model\Category.cs" />
     <Compile Include="Model\DataAccessDbContext.cs" />
     <Compile Include="Model\Product.cs" />
